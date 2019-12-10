@@ -12,7 +12,8 @@ class Deal extends Model
             'teamworkProjects' => false,
             'closedAt' => false,
             'expectedCloseDate' => false,
-            'state' => false,
+            'stage' => true,
+            'currency' => true,
         ];
     }
 }
