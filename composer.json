@@ -1,0 +1,18 @@
+{
+    "name": "bluestormdesign/teamwork-crm",
+    "description": "Teamwork.com CRM API integration library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mike Bardsley",
+            "email": "mike.bardsley@bluestormdesign.co.uk"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "BluestormDesign\\TeamworkCrm\\": "src/"
+        }
+    }
+}
